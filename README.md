@@ -14,3 +14,5 @@ best score: 0.869
 model_2, I used RandomForestClassifier with number of 
 estimators = 200 and 
 result = 0.898 that shows it works slightly better than previous model
+
+GirdSearchCV for this model = 0.894
