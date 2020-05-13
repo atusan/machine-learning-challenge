@@ -1,3 +1,3 @@
 # machine-learning-challenge
 
-model_1, I used 
+model_1, I used ... 
