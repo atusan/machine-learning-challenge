@@ -1,5 +1,6 @@
 # machine-learning-challenge
 Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system.
+To help process this data
 model_1, I used SVC model the results for training and testing data are:
 Training Data Score: 0.845
 Testing Data Score: 0.841
