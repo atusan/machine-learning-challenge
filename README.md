@@ -26,13 +26,8 @@ The purpose of this project is to create machine learning models(two machine lea
 * model_2, RandomForestClassifier with number of estimators = 200
   - score result = 0.898
   - GirdSearchCV = 0.894
-  
+
 The comparison shows RandomForestClassifier model works slightly better than SVC model for this project
-
-## Needs of this project
-
-- data processing/cleaning
-- writeup/reporting
 
 ## Needs of this project
 
